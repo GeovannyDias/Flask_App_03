@@ -11,18 +11,16 @@ virtualenv -p python3 env
 pip list
 python -m pip install --upgrade pip
 
-pip install flask-mysqldb → Forma de instalar desde la documentacion
+pip install flask
+pip install flask-mysqldb → Forma de instalar MySql desde la documentación
 
 pip install flask flask_mysqldb
 
 Make Directory:
 md src
-
-
-JSON = JavaScript Object Notation
-
 pip freeze > requirements.txt
 
+JSON = JavaScript Object Notation
 
 Other:
 
