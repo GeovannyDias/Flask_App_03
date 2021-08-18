@@ -3,7 +3,7 @@
 Python, Flask, BootsTrap and Mysql - Application Web of Contacts
 
 
-## Course
+## Commands
 
 ```
 virtualenv -p python3 env
