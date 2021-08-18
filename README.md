@@ -1,5 +1,5 @@
 # Flask_App_03
-Python Flask and Mysql - Application Web of Contacts
+Python, Flask, BootsTrap and Mysql - Application Web of Contacts
 
 
 ## Course
